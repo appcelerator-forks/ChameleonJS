@@ -1,0 +1,24 @@
+{
+  "name": "chameleon.js",
+  "version": "1.0.0",
+  "description": "Find the right contrasting colors, great for automatically selecting text colors based on user supplied color values for background UI elements. For example:",
+  "main": "chameleon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appersonlabs/ChameleonJS"
+  },
+  "keywords": [
+    "ChameleonJS",
+    "Chameleon",
+    "color"
+  ],
+  "author": "Matt Apperson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appersonlabs/ChameleonJS/issues"
+  },
+  "homepage": "https://github.com/appersonlabs/ChameleonJS"
+}
