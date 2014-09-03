@@ -17,9 +17,10 @@ Use in Node.js / Titanium:
 
 ```javascript
 var C = require("chameleonjs");
-console.log( C('black') );
-console.log( C('#000000') );
-console.log( C(0, 0, 0) );
+console.log( C('black') ); // #ffffff
+console.log( C('#000000') ); // #ffffff
+console.log( C(0, 0, 0) ); //[255, 255, 255]
+console.log( C('red') ); // #00ffff
 ```
 ---
 
